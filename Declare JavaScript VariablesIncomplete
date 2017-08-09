@@ -1,2 +1,34 @@
-# JavaScript provides seven different data types which are undefined, null, boolean, string, symbol, number, and object.
+JavaScript provides seven different data types which are:
+1) undefined 
+2) null
+3) boolean 
+4) string 
+5) symbol 
+6) number
+7) object
 
+Any of the seven data types may be stored in a variable.
+
+Variables - store and manipulate data in a dynamic fashion
+Variables - name to represent data we want to refer to
+Computer variables differ from mathematical variables in that they can store different values at different times.
+
+They do this by using a "label" to point to data rather than using data itself.
+
+We tell JavaScript to CREATE or DECLARE a variable by putting the keyword var in front of it, like so:
+
+var ourName;
+
+RULES:
+
+1) In JavaScript we end statements with semicolons.
+
+2) Variable names can be made up of numbers, letters, and $ or _, but may not contain spaces or start with a number.
+
+SOLUTION:
+
+// Example
+var ourName;
+
+// Define myName below this line
+var myName;
