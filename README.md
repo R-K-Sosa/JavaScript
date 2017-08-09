@@ -1,5 +1,5 @@
 # JavaScript
-Learning JavaScript and Object Oriented with Functional Programming with freecodecamp.com 
+Learning JavaScript, Object Oriented and Functional Programming with freecodecamp.com 
 
 # Basic JavaScript
 # (10 hours)
