@@ -1,0 +1,8 @@
+JavaScript uses the - symbol for subtraction.
+
+SOLUTION:
+
+var difference = 45 - 33;
+
+
+
