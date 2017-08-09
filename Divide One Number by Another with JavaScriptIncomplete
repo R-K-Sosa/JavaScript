@@ -1,0 +1,8 @@
+JavaScript uses the / symbol for division.
+
+SOLUTION:
+
+var quotient = 66 / 33;
+
+
+
